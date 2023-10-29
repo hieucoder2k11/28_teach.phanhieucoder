@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Bai_34_bug.cpp">
+      <Filter>Bai_34-40</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai_35.cpp">
+      <Filter>Bai_34-40</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai_16-17.cpp">
+      <Filter>Bai_16-25</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai-18_bug.cpp">
+      <Filter>Bai_16-25</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai_19.cpp">
+      <Filter>Bai_16-25</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai_21.cpp">
+      <Filter>Bai_16-25</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai_22_tamgiac.cpp">
+      <Filter>Bai_16-25</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai_23_tamgiac3.cpp">
+      <Filter>Bai_16-25</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai_24_UCLN.cpp">
+      <Filter>Bai_16-25</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai_25_bug.cpp">
+      <Filter>Bai_16-25</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai_26_bug.cpp">
+      <Filter>Bai_26-33</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai_27_bug.cpp">
+      <Filter>Bai_26-33</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai_28.cpp">
+      <Filter>Bai_26-33</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai_29.cpp">
+      <Filter>Bai_26-33</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai_30.cpp">
+      <Filter>Bai_26-33</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai_31.cpp">
+      <Filter>Bai_26-33</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai_32.cpp">
+      <Filter>Bai_26-33</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai_33_tamgiaccan.cpp">
+      <Filter>Bai_26-33</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai_36_hinhthoi.cpp">
+      <Filter>Bai_34-40</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai_37.cpp">
+      <Filter>Bai_34-40</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai_38.cpp">
+      <Filter>Bai_34-40</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai_39.cpp">
+      <Filter>Bai_34-40</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai_40.cpp">
+      <Filter>Bai_34-40</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai-0.cpp">
+      <Filter>Bai_0-11</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai-2-11.cpp">
+      <Filter>Bai_0-11</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai-41.cpp">
+      <Filter>Bai_0-11</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Bai_34-40">
+      <UniqueIdentifier>{a35daf87-6004-47df-9512-f3edda91b9fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Bai_16-25">
+      <UniqueIdentifier>{eadd6365-0723-451e-ad43-707fc08171ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Bai_26-33">
+      <UniqueIdentifier>{6496de82-09ce-4f37-b781-59f9919cb5b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Bai_0-11">
+      <UniqueIdentifier>{bc10fdd8-85ab-4ba7-ae43-35b38f364381}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
